@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d7a66061.chunk.css",
-    "main.js": "/static/js/main.03a99df4.chunk.js",
-    "main.js.map": "/static/js/main.03a99df4.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.cd6cac45.chunk.css": "/static/css/2.cd6cac45.chunk.css",
-    "static/js/2.dc694077.chunk.js": "/static/js/2.dc694077.chunk.js",
-    "static/js/2.dc694077.chunk.js.map": "/static/js/2.dc694077.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.143006bf27901dd9266dc2010660f039.js": "/precache-manifest.143006bf27901dd9266dc2010660f039.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.cd6cac45.chunk.css.map": "/static/css/2.cd6cac45.chunk.css.map",
-    "static/css/main.d7a66061.chunk.css.map": "/static/css/main.d7a66061.chunk.css.map",
-    "static/media/logo.png": "/static/media/logo.2fcb8508.png"
+    "main.css": "/invoicing/static/css/main.d7a66061.chunk.css",
+    "main.js": "/invoicing/static/js/main.71e7286e.chunk.js",
+    "main.js.map": "/invoicing/static/js/main.71e7286e.chunk.js.map",
+    "runtime~main.js": "/invoicing/static/js/runtime~main.7de17f9f.js",
+    "runtime~main.js.map": "/invoicing/static/js/runtime~main.7de17f9f.js.map",
+    "static/css/2.cd6cac45.chunk.css": "/invoicing/static/css/2.cd6cac45.chunk.css",
+    "static/js/2.9d4eac59.chunk.js": "/invoicing/static/js/2.9d4eac59.chunk.js",
+    "static/js/2.9d4eac59.chunk.js.map": "/invoicing/static/js/2.9d4eac59.chunk.js.map",
+    "index.html": "/invoicing/index.html",
+    "precache-manifest.86b41bf1007ceedadc23fa701b957f11.js": "/invoicing/precache-manifest.86b41bf1007ceedadc23fa701b957f11.js",
+    "service-worker.js": "/invoicing/service-worker.js",
+    "static/css/2.cd6cac45.chunk.css.map": "/invoicing/static/css/2.cd6cac45.chunk.css.map",
+    "static/css/main.d7a66061.chunk.css.map": "/invoicing/static/css/main.d7a66061.chunk.css.map",
+    "static/media/logo.png": "/invoicing/static/media/logo.2fcb8508.png"
   }
 }
